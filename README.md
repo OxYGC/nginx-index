@@ -1,2 +1,1 @@
-# nginx-index
-Nginx导航Html静态页面
+>Nginx导航页面，可直接替换自带的Index，修改自己的路由地址
